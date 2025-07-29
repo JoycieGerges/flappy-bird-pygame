@@ -1,19 +1,7 @@
-# 🐤 Flappy Bird – Python Game
+# 🐦 Flappy Bird – Pygame Version
 
-A fun clone of the classic **Flappy Bird** game built with **Python** and **Pygame**.  
-This project was created using **PyCharm** as part of a programming exercise to demonstrate game development fundamentals using the Pygame library.
-
----
-
-## 🎮 Features
-
-- 🐦 Flapping bird animation
-- 🧱 Random pipe generation
-- 🧲 Gravity and smooth physics
-- 💥 Collision detection
-- 🎯 Scoring system
-- 🔁 Game restart after crash
-- 🔊 Optional sound effects (wing, hit)
+🎮 A simple Flappy Bird clone built using Python and Pygame.  
+Fly the bird between pipes without hitting them!
 
 ---
 
@@ -21,6 +9,7 @@ This project was created using **PyCharm** as part of a programming exercise to 
 
 All game images and sound effects are included under the `assets/` folder.
 
+```
 assets/
 ├── audio/
 │   ├── hit.wav
@@ -34,15 +23,30 @@ assets/
 │   ├── pipe-green.png
 │   ├── message.png
 │   └── gameover.png
-
+```
 
 ---
 
-## ▶️ How to Run the Game
+## 🚀 How to Run
 
-Make sure you have Python and Pygame installed:
+1. Make sure you have Python installed.
+2. Install Pygame:
+   ```bash
+   pip install pygame
+   ```
+3. Run the game:
+   ```bash
+   python main.py
+   ```
 
+---
 
-```bash
-pip install pygame
-python main.py
+## 🧑‍💻 Developer
+
+- **Joycie Gerges** – Frontend Developer
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
