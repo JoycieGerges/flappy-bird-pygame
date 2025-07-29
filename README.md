@@ -50,9 +50,13 @@ Your score increases as you pass between pipes.
 Highest score is saved locally in highest_score.txt.
 
 ---
-## 🧑‍💻 Author
+## 🧠 Author
 
-- **Developed by Joycie Gerges** – Frontend Developer
+**Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
+
+📧 **Email:** [markamgad18@gmail.com](mailto:joyciegerges@gmail.com)  
+🌐 **[My Portfolio](https://mark-a-portfolio.netlify.app/)**  
+🔗 **[LinkedIn](www.linkedin.com/in/joycie-gerges-b45514248)** 
 
 ---
 
