@@ -42,8 +42,11 @@ assets/
 ---
 ## 🏁 Gameplay
 Press Space or Up Arrow to make the bird flap.
+
 Avoid hitting the pipes or the ground.
+
 Your score increases as you pass between pipes.
+
 Highest score is saved locally in highest_score.txt.
 
 ---
