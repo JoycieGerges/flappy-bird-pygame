@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm settings
+.idea/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.cache
+
+# VS Code
+.vscode/
+
+# Test outputs
+*.pytest_cache/
+
+# Other
+*.swp
+*.swo
