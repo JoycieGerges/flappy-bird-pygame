@@ -19,7 +19,7 @@ This project was created using **PyCharm** as part of a programming exercise to 
 
 ## 📁 Assets
 
-All game images and sound effects are included under the assets/ folder.
+All game images and sound effects are included under the `assets/` folder.
 
 assets/
 ├── audio/
@@ -34,6 +34,7 @@ assets/
 │   ├── pipe-green.png
 │   ├── message.png
 │   └── gameover.png
+
 
 ---
 
