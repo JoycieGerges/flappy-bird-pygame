@@ -55,7 +55,6 @@ Highest score is saved locally in highest_score.txt.
 **Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
 
 📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
-🌐 **[My Portfolio](https://mark-a-portfolio.netlify.app/)**  
 🔗 **[LinkedIn](www.linkedin.com/in/joycie-gerges-b45514248)** 
 
 ---
