@@ -17,13 +17,23 @@ This project was created using **PyCharm** as part of a programming exercise to 
 
 ---
 
-## 📷 Screenshots
+## 📁 Assets
 
-> *(Add your own screenshots here if available)*
+All game images and sound effects are included under the assets/ folder.
 
-| Start Screen | Gameplay | Game Over |
-|--------------|----------|------------|
-| ![](screenshots/start.png) | ![](screenshots/gameplay.png) | ![](screenshots/gameover.png) |
+assets/
+├── audio/
+│   ├── hit.wav
+│   └── wing.wav
+├── photos/
+│   ├── background-day.png
+│   ├── base.png
+│   ├── bluebird-upflap.png
+│   ├── bluebird-midflap.png
+│   ├── bluebird-downflap.png
+│   ├── pipe-green.png
+│   ├── message.png
+│   └── gameover.png
 
 ---
 
