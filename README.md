@@ -29,8 +29,9 @@ This project was created using **PyCharm** as part of a programming exercise to 
 
 ## ▶️ How to Run the Game
 
-1. Make sure you have **Python 3.x** installed
-2. Install Pygame:
+Make sure you have Python and Pygame installed:
+
 
 ```bash
 pip install pygame
+python main.py
