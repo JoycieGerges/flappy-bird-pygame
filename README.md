@@ -1,43 +1,36 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="180" />
-</p>
+# 🐤 Flappy Bird – Python Game
 
-<h1 align="center">🐤 Flappy Bird Game with Python & Pygame</h1>
-
-<p align="center">
-  A simple recreation of the classic Flappy Bird game using <b>Python</b> and <b>Pygame</b>.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Library-Pygame-green?style=for-the-badge&logo=pygame" />
-  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" />
-</p>
+A fun clone of the classic **Flappy Bird** game built with **Python** and **Pygame**.  
+This project was created using **PyCharm** as part of a programming exercise to demonstrate game development fundamentals using the Pygame library.
 
 ---
 
-## 🎮 Game Preview
+## 🎮 Features
 
-<p align="center">
-  <img src="screenshots/gameplay.gif" width="480" alt="Flappy Bird Gameplay" />
-</p>
-
----
-
-## 🧠 Features
-
-- Realistic bird gravity and flapping
-- Random pipe generation
-- Collision detection
-- Score tracking
-- Restart on game over
-- Simple pixel-style graphics
+- 🐦 Flapping bird animation
+- 🧱 Random pipe generation
+- 🧲 Gravity and smooth physics
+- 💥 Collision detection
+- 🎯 Scoring system
+- 🔁 Game restart after crash
+- 🔊 Optional sound effects (wing, hit)
 
 ---
 
-## 🚀 How to Run
+## 📷 Screenshots
 
-1. Install Python (version 3.6+ recommended)
-2. Install the Pygame library:
-   ```bash
-   pip install pygame
+> *(Add your own screenshots here if available)*
+
+| Start Screen | Gameplay | Game Over |
+|--------------|----------|------------|
+| ![](screenshots/start.png) | ![](screenshots/gameplay.png) | ![](screenshots/gameover.png) |
+
+---
+
+## ▶️ How to Run the Game
+
+1. Make sure you have **Python 3.x** installed
+2. Install Pygame:
+
+```bash
+pip install pygame
