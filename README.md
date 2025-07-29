@@ -55,7 +55,7 @@ Highest score is saved locally in highest_score.txt.
 **Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
 
 📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
-🔗 **[LinkedIn](www.linkedin.com/in/joycie-gerges-b45514248)** 
+🔗 [LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248/)
 
 ---
 
